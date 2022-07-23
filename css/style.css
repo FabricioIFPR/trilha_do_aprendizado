@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans';
+    color: rgb(230, 230, 230);
+    box-sizing: border-box;
+}
+body,html{
+    text-align: center;
+}
+body > h2{
+    font-size: 28px;
+    font-weight: 400;
+    margin-top: 30px;
+}
+section.link{
+    padding: 30px;
+}
+section.link h2 i{
+    font-size: 30px;
+}
+section.link h2{
+    font-weight: 400;
+    font-size: 28px;
+}
+.link ul{
+    list-style-type: none;
+}
+.link ul li{
+    margin: 10px 0;
+}
+.link ul li a{
+    font-size: 19px;
+    text-decoration: none;
+    padding: 5px;
+}
+.link ul li a:hover{
+    font-size: 22px;
+    background-color: #4f23614f;
+    transition: 0.7s;
+}
