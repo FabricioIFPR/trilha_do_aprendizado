@@ -1,11 +1,9 @@
 /* Principal */
-
-.principal{
+.conteudo{
     background-color: white;
     padding: 10px;
     border-radius: 0.5rem;
-}
-.conteudo{
+    margin: 10px 0;
     width: 100%;
 }
 .conteudo h2{

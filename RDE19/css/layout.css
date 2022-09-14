@@ -6,6 +6,7 @@
 }
 .center{
     margin: 0 auto;
+    padding: 0 2%;
     width: 100%;
     max-width: 1200px;
 }
@@ -35,16 +36,25 @@ header.header_top{
     width: 70%;
 }
 
+.header_top nav{
+    width: 30%;
+}
 .header_top nav a{
     font-size: 14px;
     text-decoration: none;
     padding: 5px;
-    margin: 0 5px;
+    margin: 0px 5px;
     color: #818181;
 }
 .header_top nav a:hover{
     transition: 0.7s;
     font-size: 16px;
+}
+
+/* Principal */
+
+.conteudo{
+    box-shadow: 5px 5px 45px 0px black;
 }
 
 /* CSS */
