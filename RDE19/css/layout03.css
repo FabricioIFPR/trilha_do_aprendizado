@@ -1,0 +1,20 @@
+/* Principal */
+
+.principal{
+    display: flex;
+}
+.conteudo{
+    width: 20%;
+    background-color: white;
+    margin: 3px;
+    padding: 25px 15px;
+}
+.conteudo:nth-child(2){
+    width: 60%;
+}
+.conteudo h2{
+    margin-bottom: 18px;
+}
+.conteudo P{
+    margin-bottom: 15px;
+}

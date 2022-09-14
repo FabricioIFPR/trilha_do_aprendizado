@@ -1,0 +1,18 @@
+/* Principal */
+
+.principal{
+    display: flex;
+}
+.conteudo{
+    background-color: white;
+    border-radius: 0.5rem;
+    width: 32.5%;
+    margin: 3px;
+    padding: 15px;
+}
+.conteudo h2{
+    margin-bottom: 18px;
+}
+.conteudo P{
+    margin-bottom: 15px;
+}
